@@ -1,7 +1,7 @@
 ---
 layout: page
-title: index
-permalink: /index
+title: Home
+permalink: /home
 ---
 
 Hi, Write an awesome description about your blog here.  
