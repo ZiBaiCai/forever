@@ -30,14 +30,14 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: links
-    url: /links
-
   - title: Archive
     url: /archive
     
   - title: categories
     url: /categories
+    
+  - title: links
+    url: /links
       
   - title: About
     url: /about
