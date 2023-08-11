@@ -30,8 +30,8 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
-    url: /posts
+  - title: links
+    url: /links
 
   - title: Archive
     url: /archive
