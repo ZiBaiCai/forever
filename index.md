@@ -1,7 +1,5 @@
 ---
-layout: page
-title: home
-permalink: /home
+layout: default
 ---
 
 Hi, Write an awesome description about your blog here.  
