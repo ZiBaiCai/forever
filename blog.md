@@ -1,3 +1,6 @@
 ---
-permalink: /blog
+title:
+layout: blog
+permalink: /blog/
+published: true
 ---
