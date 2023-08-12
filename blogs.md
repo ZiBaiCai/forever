@@ -1,7 +1,7 @@
 ---
 layout: page
-title: blog
-permalink: /blog
+title: blogs
+permalink: /blogs
 ---
 
 Hi, Write an awesome description about your blog here.  
