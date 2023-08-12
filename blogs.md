@@ -1,6 +1,5 @@
 ---
 title:
-layout: blog
+layout: default
 permalink: /blogs/
-published: true
 ---
