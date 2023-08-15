@@ -29,10 +29,7 @@ url: https://zibaicai.com
 baseurl: ""
 
 # Navigation menu
-navigation_links:
- # - title: Archive
- #  url: /archive
-          
+navigation_links:         
   - title: Home
     url: /
     
@@ -42,6 +39,8 @@ navigation_links:
   - title: About
     url: /about
     
+    # - title: Archive
+     #  url: /archive 
    # - title: Search
    #   url: /search
     
