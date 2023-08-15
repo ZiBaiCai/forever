@@ -32,6 +32,9 @@ baseurl: ""
 navigation_links:
  # - title: Archive
  #  url: /archive
+          
+  - title: Home
+    url: /
     
   - title: links
     url: /links
@@ -39,8 +42,8 @@ navigation_links:
   - title: About
     url: /about
     
-  - title: Search
-    url: /search
+   # - title: Search
+   #   url: /search
     
 # Footer icons
 footer_links:
