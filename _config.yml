@@ -29,7 +29,7 @@ url: https://zibaicai.com
 baseurl: ""
 
 # Navigation menu
-navigation_links:
+# navigation_links:
   - title: Home
     url: /
 
