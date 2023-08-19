@@ -3,13 +3,14 @@
 #
 
 # Site locale
-lang: "en"
+lang: "utf-8"
 
 # Name of your site (displayed in the header)
 title: ZiBaiCai.Com
 
 # Short bio or description (displayed in the header)
-description: A simple, elegant and full featured Jekyll theme
+description: 紫白菜，白菜的寓意是百财，因为白菜的谐音是白财，花语是招财进宝，有聚拢财富的象征！<br> 
+             白菜寓意着财富、繁荣、平安、吉祥、团圆！生长的形状是层层包裹的，所以一般具有守住财富、清白、高风亮节、发财、吉祥、自然、大富大贵和风调雨顺的寓意！
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -30,14 +31,14 @@ baseurl: ""
 
 # Navigation menu
 navigation_links:
-  - title: Blog
+  - title: Home
     url: /
 
   - title: About
     url: /about
 
-  - title: Search
-    url: /search
+  - title: About
+    url: /about
 
 # Footer icons
 footer_links:
