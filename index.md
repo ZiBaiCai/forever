@@ -4,6 +4,12 @@ layout: default
 
 # Home
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+             紫白菜，白菜的寓意是百财，白菜的谐音是百财，<br> 
+             
+             花语是招财进宝，有聚拢财富的象征！<br> 
+             
+             白菜寓意着财富、繁荣、平安、吉祥、团圆！<br> 
+             
+             生长的形状是层层包裹的，所以一般具有守住财富、<br> 
+             
+             清白、高风亮节、发财、吉祥、自然、大富大贵和风调雨顺的寓意！<br> 
