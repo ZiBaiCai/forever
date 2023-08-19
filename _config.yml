@@ -3,13 +3,13 @@
 #
 
 # Site locale
-lang: "utf-8"
+lang: "en"
 
 # Name of your site (displayed in the header)
-title: 紫白菜
+title: ZiBaiCai.Com
 
 # Short bio or description (displayed in the header)
-description: ZiBaiCai.Com
+description: A simple, elegant and full featured Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /assets/image/avatar.png
@@ -29,18 +29,18 @@ url: https://zibaicai.com
 baseurl: ""
 
 # Navigation menu
- navigation_links:
-  - title: Home
+navigation_links:
+  - title: Blog
     url: /
-
-  - title: Links
-    url: /links
 
   - title: About
     url: /about
 
+  - title: Search
+    url: /search
+
 # Footer icons
-# footer_links:
+footer_links:
   - title: Feed
     url: feed.xml
     icon: fa fa-rss-square
@@ -50,7 +50,7 @@ baseurl: ""
     icon: fa fa-twitter-square
 
   - title: GitHub
-    url: https://github.com/
+    url: https://github.com/forever-jekyll
     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
