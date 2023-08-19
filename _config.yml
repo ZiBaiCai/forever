@@ -45,9 +45,9 @@ baseurl: ""
     url: feed.xml
     icon: fa fa-rss-square
 
-  - title: vk
-    url: https://vk.com/qinghongjiao
-    icon: fa fa-vk
+  - title: Twitter
+    url: https://twitter.com/jekyllrb
+    icon: fa fa-twitter-square
 
   - title: GitHub
     url: https://github.com/
