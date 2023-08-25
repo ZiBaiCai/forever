@@ -40,7 +40,8 @@ navigation_links:
     url: /about
 
 # Footer icons
-footer_links:
+# 不需要请设置为false 需要true
+footer_links:false
   - title: Feed
     url: feed.xml
     icon: fa fa-rss-square
