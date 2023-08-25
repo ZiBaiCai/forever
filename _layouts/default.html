@@ -43,7 +43,7 @@
     <div id="main" role="main" class="container">
       {{ content }}
     </div>
-
+<!-- footer -->
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
@@ -55,16 +55,21 @@
             {%- else -%}
             {%- assign url = footer_link.url | relative_url -%}
             {%- endif -%}
-            <a class="social-icon" href="{{ url }}"><i class="{{ footer_link.icon | default: 'fa fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
+            <a class="social-icon" href="{{ url }}">
+            <i class="{{ footer_link.icon | default: 'fa fa-link' }} fa-2x" title="{{ footer_link.title }}"></i></a>
             {%- endfor -%}
           </div>
           {%- endif -%}
-
+<!-- 版权 -->
           <div class="copyright">
             {% if site.copyright %}
             {{ site.copyright | markdownify }}
             {% else %}
-            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.title }}. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.</p>
+            <p>&copy; {{ site.time | date: '%Y' }} {{ site.title | default: site.title }}. 
+              Powered by 
+             <!--  <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp;  -->
+             <!--  <a href="https://github.com/forever-jekyll/forever-jekyll" rel="nofollow">Forever Jekyll</a>.  -->
+             </p>
             {% endif %}
           </div>
         </footer>
