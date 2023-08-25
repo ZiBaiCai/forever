@@ -21,6 +21,6 @@ layout: default
 > 度生活，也渡自己。
 
 
-<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">  
-<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">  
-<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">  
+<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">
+<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">
+<img align="left" width="100" height="100" src="assets/image/dianzan.svg" title="点赞">
