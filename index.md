@@ -19,4 +19,6 @@ layout: default
 > 无时不快乐，多得一颗知足心，无处不幸福
 > 
 > 度生活，也渡自己。
+
+
 <img align="left" width="100" height="100" src="{{ site.baseurl }}/assets/image/dainzan.svg" title="404">  
