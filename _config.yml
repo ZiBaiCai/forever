@@ -41,18 +41,18 @@ navigation_links:
 
 # Footer icons
 # 不需要请设置为false 需要true
-footer_links:
-  - title: Feed
-    url: feed.xml
-    icon: fa fa-rss-square
+# footer_links:
+#   - title: Feed
+#     url: feed.xml
+#     icon: fa fa-rss-square
 
-  - title: Twitter
-    url: https://twitter.com/
-    icon: fa fa-twitter-square
+#   - title: Twitter
+#     url: https://twitter.com/
+#     icon: fa fa-twitter-square
 
-  - title: GitHub
-    url: https://github.com/
-    icon: fa fa-github-square
+#   - title: GitHub
+#     url: https://github.com/
+#     icon: fa fa-github-square
 
 # Enter your copyright text if you wish to override the default one.
 #copyright: "This site is made with <3 by *me, myself, and I*."
